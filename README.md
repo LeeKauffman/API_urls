@@ -2,7 +2,7 @@ API de URLs
 
 Esta é uma API simples para gerenciar URLs em um banco de dados PostgreSQL. A API oferece operações básicas de CRUD (Create, Read, Update, Delete) para manipular URLs.
 
-Configuração Antes de executar a aplicação, certifique-se de ter o Docker e o Docker Compose instalados em sua máquina. 
+Configuração antes de executar a aplicação, certifique-se de ter o Docker e o Docker Compose instalados em sua máquina. 
 Isso garantirá que você possa facilmente configurar e executar o banco de dados PostgreSQL necessário para a aplicação.
 
 Instalação e Execução 
