@@ -7,7 +7,7 @@ Isso garantirá que você possa facilmente configurar e executar o banco de dado
 
 Instalação e Execução 
 Clone este repositório em sua máquina local: 
-git clone https://github.com/LeeKauffman/urls-api.git
+git clone https://github.com/LeeKauffman/API_urls.git
 
 Navegue até o diretório clonado: 
 cd urls-api
